@@ -3,7 +3,7 @@
 
 [Continue to github page](https://github.com/Nilsae)
 
-You can follow me on [tweeter](https://twitter.com/WilldLilly) or contact me via [Discord](nilsa#6292) or [Telegram Messenger](https://t.me/NilooSaeedi)
+You can follow me on [tweeter](https://twitter.com/WilldLilly) or contact me via Discord (nilsa#6292) or [Telegram Messenger](https://t.me/NilooSaeedi)
 
 
 
