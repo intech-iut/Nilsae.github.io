@@ -11,9 +11,10 @@ def main():
     network_type = "lattice"    # topology of social network
     updating_activation_sequence = "synchronous"
     time_steps = 50
+    coordinating_fraction = 1/2
     # updating_activation_sequence = "asynchronous"
     # updating_activation_sequence = "partially_synchronous"
-    simulation = Simulation(population, average_degree, network_type,updating_activation_sequence,time_steps    )
+    simulation = Simulation(population, average_degree, network_type,updating_activation_sequence,time_steps,coordinating_fraction    )
 
     for episode in range(num_episode):
         random.seed()

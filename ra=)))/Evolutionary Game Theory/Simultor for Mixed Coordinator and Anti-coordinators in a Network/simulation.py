@@ -24,7 +24,7 @@ class Simulation:
         self.initial_cooperators = self.__choose_initial_cooperators_if_synchronous()
         self.time_steps = 1
         self.updating_activation_sequence = None
-
+        self.coordinating_fraction = 1/2
     def __generate_agents(self, population, average_degree):
         if self.network_type == "lattice":
             self.network = self.__generate_lattice(population)
